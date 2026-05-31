@@ -1,6 +1,6 @@
 # ⭐ Star Wars App
 
-An Android application built with **Kotlin** that explores the Star Wars universe — characters, planets, starships, and more using the [SWAPI (Star Wars API)](https://swapi.dev/).
+An Android application built with **Kotlin** that explores the Star Wars universe — characters, planets, starships, and more using the SWAPI (Star Wars API).
 
 ---
 
@@ -68,7 +68,7 @@ StarWars/
 
 ## 🌐 API Reference
 
-This app uses the [Star Wars API (SWAPI)](https://swapi.dev/), a free public REST API.
+This app uses the Star Wars API (SWAPI), a free public REST API.
 
 Example endpoint:
 ```
