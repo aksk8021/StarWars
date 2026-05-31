@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StarWarsProject</string>
+    <string name="points_table">Points Table</string>
+    <string name="matches">Matches</string>
+    <string name="player_name">Player Name</string>
+    <string name="_22">22</string>
+    <string name="opponent">Opponent</string>
+    <string name="score_0_0">Score: 0 - 0</string>
+    <string name="win">WIN</string>
+    <string name="loss">LOSS</string>
+    <string name="draw">DRAW</string>
+</resources>

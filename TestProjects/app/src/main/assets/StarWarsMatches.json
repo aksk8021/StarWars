@@ -1,0 +1,51 @@
+[
+  {
+    "player1Id": 1,
+    "player2Id": 2,
+    "player1Score": 3,
+    "player2Score": 3
+  },
+  {
+    "player1Id": 1,
+    "player2Id": 3,
+    "player1Score": 2,
+    "player2Score": 1
+  },
+  {
+    "player1Id": 2,
+    "player2Id": 3,
+    "player1Score": 1,
+    "player2Score": 4
+  },
+  {
+    "player1Id": 4,
+    "player2Id": 5,
+    "player1Score": 2,
+    "player2Score": 2
+  },
+  {
+    "player1Id": 6,
+    "player2Id": 7,
+    "player1Score": 0,
+    "player2Score": 1
+    
+  },
+  {
+    "player1Id": 8,
+    "player2Id": 9,
+    "player1Score": 2,
+    "player2Score": 3
+  },
+  {
+    "player1Id": 10,
+    "player2Id": 11,
+    "player1Score": 5,
+    "player2Score": 1
+  },
+  {
+    "player1Id": 12,
+    "player2Id": 1,
+    "player1Score": 1,
+    "player2Score": 4
+  }
+]
